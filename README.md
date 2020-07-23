@@ -11,7 +11,7 @@
       
 ## Reason to create :thinking:
   ###
-       I decided to create this Tic-tac-toe just for put in practice the new things I've been learned about Javascript.
+       I decided to create this Tic-tac-toe just for put in practice the new things I've been learned about JS.
       
 ## What I learned 👨‍🏫
   ###    
